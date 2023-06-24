@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS `pids` (
+    pid INTEGER NOT NULL
+);
